@@ -1,4 +1,4 @@
-# patikakodluyoruz
+# patikadev & kodluyoruz
 # Patika &amp; Kodluyoruz çalışmalarım
 
 
